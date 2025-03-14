@@ -15,7 +15,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](.images//Screenshot.png)
+![](./images/Screenshot.png)
 
 ### Links
 
